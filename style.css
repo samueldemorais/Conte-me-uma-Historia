@@ -1,0 +1,25 @@
+
+body {
+  background-image: url('https://cf.shopee.com.br/file/f7a82e4d95c9e6a248dd5f0da08c3381')
+}
+
+p {
+  font-family: Updock;
+  font-size: 1.5rem;
+}
+
+h1, h5{
+  font-family: Lobster;
+}
+
+#pages {
+  border: 3px solid darkblue !important;
+  background-color: #dedede;
+  padding: 10px;
+  border-radius: 25px 15px 50px 30px;
+}
+
+body .button {
+  color: #245B86; !important
+}
+
